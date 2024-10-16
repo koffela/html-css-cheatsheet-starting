@@ -1,0 +1,36 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
+
+table {
+    width: 650px;
+}
+
+.tablemain {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid purple;
+}
+
+td {
+    border-bottom: 1px solid violet;
+}
+
+th {
+    background-color: pink;
+}
+
+body {
+    background-color: gainsboro;
+}
